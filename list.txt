@@ -2,3 +2,4 @@ resolver1.opendns.com
 ip4only.me
 myip.opendns.com
 investing.com
+independent.co.uk
